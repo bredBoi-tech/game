@@ -1,15 +1,9 @@
 notes:
 -use gnu compiler to run the files, otherwise it won't work.
--always run this file on a VM, other wise this will f##k your computer's files
+-always run this file on a VM (linux x86 ubuntu), other wise this will f##k your computer's files
 -44 6F 6E 27 54 20 45 56 45 52 6C 6F 6F 6B 20 69 6E 20 74 68 65 6C 61 6B 65 21
 linux:
 1. open terminal
 2. type in "cd /home"
 3. then type in "gcc game.c -o game"
 4. and finally type in "./game"
-windows:
-1.hold win+R
-2.type in cmd then enter
-3.type in "cd C:/"
-4.then type in "gcc game.c -o game.exe"
-5.and finally type in "./game.exe"
