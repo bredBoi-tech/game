@@ -5,5 +5,5 @@ notes:
 linux:
 1. open terminal
 2. type in "cd /home"
-3. then type in "gcc game.c -o game"
-4. and finally type in "./game"
+3. then type in "gcc main.c -o main.elf"
+4. and finally type in "./main.elf"
